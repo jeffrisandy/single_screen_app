@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/pdlc_img"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:src="@drawable/pdlc"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36sp"
+        android:textColor="@android:color/black"
+        android:padding="20dp"
+        android:text="Pekanbaru Dog Lover"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/location"
+            android:paddingLeft="16dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Jalan Soekarno Hatta"
+            android:paddingLeft="40dp"
+            android:paddingRight="16dp"/>
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
