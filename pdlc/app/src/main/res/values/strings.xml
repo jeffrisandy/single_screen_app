@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Pekanbaru Dog Lovers</string>
+    <string name="title">Pekanbaru Dog Lover</string>
+    <string name="location">Tengkerang Barat, Marpoyan Damai, Pekanbaru City, Riau 28125</string>
+    <string name="phone">0822-8517-9899</string>
+    <string name="facebook">https://www.facebook.com/pekanbaru.doglovers</string>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_desc">Formed from a shared desire to save hundreds of stray dogs and find them home in pekanbaru.</string>
 </resources>
